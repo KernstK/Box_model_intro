@@ -1,0 +1,100 @@
+.mother{
+    margin: auto;
+    background-color: black;
+    width: 700px;
+    height: 300px;
+}
+.mother div{
+    width: 100%;
+    height: 100px;
+}
+.child{
+    background-color: brown;
+}
+.child_1{
+    background-color: rgb(0, 255, 21);
+}
+.child_2{
+    background-color: rgb(255, 208, 0);
+}
+
+.gmother{
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(0, 4, 255);
+    width: 700px;
+    height: 300px;
+}
+.mother_1{
+    width: 700px;
+    height: 100px;
+    display: flex;
+}
+.child1{
+    background-color: brown;
+    width: 33.33%;
+    height: 100px;
+}
+.child2{
+    background-color: rgb(0, 255, 21);
+    width: 33.33%;
+    height: 100px;
+}
+.child3{
+    background-color: rgb(255, 208, 0);
+    width: 33.33%;
+    height: 100px;
+}
+.mother_2{
+    background-color: darkblue;
+    width: 100%;
+    height: 100px;
+}
+.mother_3{
+    width: 100%;
+    height: 100px;
+    background-color: darkred;
+    display: flex;
+}
+.child4{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 100px;
+}
+.child5{
+    background-color: rgb(0, 238, 255);
+    width: 100%;
+    height: 100px;
+}
+
+.mother_4{
+    margin: auto;
+    margin-top: 50px;
+    width: 700px;
+    height: 300px;
+    background-color: olive;
+    display: flex;
+}
+.child6{
+    background-color: rgb(0, 238, 255);
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.child7{
+    background-color: rgb(91, 0, 236);
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.child8{
+    background-color: rgb(255, 0, 200);
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+p{
+    margin-top: 45%;
+    text-align: center;
+    color: orange;
+}
